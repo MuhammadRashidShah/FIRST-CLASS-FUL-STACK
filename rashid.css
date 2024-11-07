@@ -1,0 +1,33 @@
+.sk{
+    background-image: url(./hero-1.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.uk{
+    background-image: url(./hero-2.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.uv{
+    float: right;
+}
+
+.cla{
+    position: relative;
+    left:540px;
+    top:185px;
+    
+}
+.kla{
+    position: relative;
+    left:540px;
+    top:-157px;
+    
+}
+.sha{
+    margin-top: -271px;
+}
+.pt{
+    margin-top: 205px;
+}
